@@ -113,3 +113,66 @@ Open: http://localhost:3000
   "sources": [{ "title": "...", "url": "...", "domain": "..." }]
 }
 ```
+
+---
+
+## 🐳 Docker Setup (Recommended)
+
+### 1. Build and Run All Services
+
+This will start the backend (FastAPI), frontend (React), and MongoDB database using Docker Compose.
+
+```sh
+docker-compose up --build
+```
+- Frontend: http://localhost:3000
+- Backend API: http://localhost:5000
+- MongoDB: localhost:27017
+
+### 2. Stopping Services
+
+```sh
+docker-compose down
+```
+
+### 3. Rebuilding Only a Specific Service
+
+```sh
+docker-compose build --no-cache backend
+```
+
+---
+
+## 🖥️ Manual (Non-Docker) Setup
+
+Follow the steps in **Quick Setup (Windows)** or adapt for your OS. You can run backend, frontend, and database manually if you prefer not to use Docker.
+
+---
+
+## ⚡ One-Command Quick Start (Docker)
+
+If you have Docker and Docker Compose installed, just run:
+
+```sh
+docker-compose up --build
+```
+
+---
+
+## 🔑 Environment Variables
+
+Some services require environment variables for configuration. You can set these in a `.env` file in the relevant directory or use the provided defaults in `docker-compose.yml`.
+
+### Example `.env` for FastAPI Backend (`fastapi_backend/.env`):
+```
+MONGO_URI=mongodb://mongo:27017/vishwakarma_ai
+MONGO_DB=vishwakarma_ai
+CORS_ORIGINS=http://localhost:3000,http://127.0.0.1:3000
+PYTHON_PATH=python3
+```
+- If you use Docker Compose, these are set automatically.
+- For manual runs, copy the above into `fastapi_backend/.env` and adjust as needed.
+
+> **Note:** Never commit `.env` files with secrets or credentials to Git. They are already included in `.gitignore`.
+
+---
