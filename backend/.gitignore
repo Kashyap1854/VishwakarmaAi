@@ -1,0 +1,16 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+.env
+*.egg-info/
+.eggs/
+uploads/
+*.sqlite3
+*.db
+*.faiss
+*.npy

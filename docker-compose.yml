@@ -1,0 +1,49 @@
+services:
+  backend:
+    build:
+      context: ./fastapi_backend
+      dockerfile: Dockerfile
+    container_name: vishwakarma-backend
+    ports:
+      - "5000:5000"
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/vishwakarma_ai
+      - MONGO_DB=vishwakarma_ai
+      - CORS_ORIGINS=http://localhost:3000,http://127.0.0.1:3000
+      - PYTHON_PATH=python3
+    depends_on:
+      - mongo
+    volumes:
+      - ./fastapi_backend:/app
+      - ./backend:/backend
+    command: uvicorn main:app --host 0.0.0.0 --port 5000 --reload
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: vishwakarma-frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    volumes:
+      # Bind-mount source so edits are live
+      - ./frontend:/app
+      # Anonymous volume prevents the host node_modules (Windows binaries)
+      # from overwriting the Linux-native node_modules built in the image
+      - /app/node_modules
+    environment:
+      - VITE_API_URL=http://backend:5000
+    command: npm run dev -- --host
+
+  mongo:
+    image: mongo:6
+    container_name: vishwakarma-mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+volumes:
+  mongo_data:

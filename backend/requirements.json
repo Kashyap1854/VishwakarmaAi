@@ -1,0 +1,350 @@
+{
+  "Taj Mahal": {
+    "architecture": "Mughal",
+    "built": "1632-1653",
+    "builder": "Shah Jahan",
+    "location": "Agra, Uttar Pradesh"
+  },
+  "Qutub Minar": {
+    "architecture": "Indo-Islamic",
+    "built": "1199-1220",
+    "builder": "Qutb-ud-din Aibak & Iltutmish",
+    "location": "Delhi"
+  },
+  "Charminar Hyderabad": {
+    "architecture": "Indo-Islamic (Qutb Shahi)",
+    "built": "1591",
+    "builder": "Muhammad Quli Qutb Shah",
+    "location": "Hyderabad, Telangana"
+  },
+  "Hawa Mahal": {
+    "architecture": "Rajput",
+    "built": "1799",
+    "builder": "Maharaja Sawai Pratap Singh",
+    "location": "Jaipur, Rajasthan"
+  },
+  "Mysore Palace": {
+    "architecture": "Indo-Saracenic",
+    "built": "1897-1912",
+    "builder": "Wodeyar Dynasty",
+    "location": "Mysuru, Karnataka"
+  },
+  "Gateway of India": {
+    "architecture": "Indo-Saracenic",
+    "built": "1911-1924",
+    "builder": "British Government",
+    "location": "Mumbai, Maharashtra"
+  },
+  "Lotus Temple": {
+    "architecture": "Modern (Baháʼí)",
+    "built": "1980-1986",
+    "builder": "Bahá'í Faith",
+    "location": "Delhi"
+  },
+  "Red Fort Delhi": {
+    "architecture": "Mughal",
+    "built": "1638-1648",
+    "builder": "Shah Jahan",
+    "location": "Delhi"
+  },
+  "Konark Sun Temple": {
+    "architecture": "Kalinga",
+    "built": "1250",
+    "builder": "Narasimhadeva I",
+    "location": "Konark, Odisha"
+  },
+  "Rani ki Vav": {
+    "architecture": "Stepwell (Maru-Gurjara)",
+    "built": "11th century",
+    "builder": "Queen Udayamati",
+    "location": "Patan, Gujarat"
+  },
+  "Humayun's Tomb": {
+    "architecture": "Mughal",
+    "built": "1565-1572",
+    "builder": "Haji Begum",
+    "location": "Delhi"
+  },
+  "Fatehpur Sikri": {
+    "architecture": "Mughal",
+    "built": "1571-1585",
+    "builder": "Akbar",
+    "location": "Uttar Pradesh"
+  },
+  "Sanchi Stupa": {
+    "architecture": "Buddhist",
+    "built": "3rd century BCE",
+    "builder": "Ashoka",
+    "location": "Madhya Pradesh"
+  },
+  "Jama Masjid Delhi": {
+    "architecture": "Mughal",
+    "built": "1650–1656",
+    "builder": "Shah Jahan",
+    "location": "Delhi"
+  },
+  "Salar Jung Museum": {
+    "architecture": "Modern",
+    "built": "1951",
+    "builder": "Salar Jung Family",
+    "location": "Hyderabad, Telangana"
+  },
+  "Shaniwar Wada": {
+    "architecture": "Maratha",
+    "built": "1732",
+    "builder": "Peshwa Baji Rao I",
+    "location": "Pune, Maharashtra"
+  },
+  "Chhatrapati Shivaji Terminus": {
+    "architecture": "Victorian Gothic",
+    "built": "1878-1887",
+    "builder": "British India",
+    "location": "Mumbai, Maharashtra"
+  },
+  "Golkonda Fort": {
+    "architecture": "Medieval Deccan",
+    "built": "16th century",
+    "builder": "Qutb Shahi dynasty",
+    "location": "Hyderabad, Telangana"
+  },
+  "Raghurajpur Artist Village": {
+    "architecture": "Traditional village",
+    "built": "Ancient",
+    "builder": "Local artisans",
+    "location": "Odisha"
+  },
+  "Chittorgarh Fort": {
+    "architecture": "Rajput",
+    "built": "7th century",
+    "builder": "Maurya rulers",
+    "location": "Rajasthan"
+  },
+  "Meenakshi Temple": {
+    "architecture": "Dravidian",
+    "built": "16th century",
+    "builder": "Nayak dynasty",
+    "location": "Madurai, Tamil Nadu"
+  },
+  "Brihadeeswarar Temple": {
+    "architecture": "Dravidian (Chola)",
+    "built": "1003-1010",
+    "builder": "Rajaraja Chola I",
+    "location": "Thanjavur, Tamil Nadu"
+  },
+  "Virupaksha Temple": {
+    "architecture": "Dravidian",
+    "built": "7th century (expanded later)",
+    "builder": "Chalukya & Vijayanagara rulers",
+    "location": "Hampi, Karnataka"
+  },
+  "Chennakesava Temple": {
+    "architecture": "Hoysala",
+    "built": "1117",
+    "builder": "Vishnuvardhana",
+    "location": "Belur, Karnataka"
+  },
+  "Hoysaleswara Temple": {
+    "architecture": "Hoysala",
+    "built": "12th century",
+    "builder": "Vishnuvardhana",
+    "location": "Halebidu, Karnataka"
+  },
+  "Ramanathaswamy Temple Rameswaram": {
+    "architecture": "Dravidian",
+    "built": "12th century",
+    "builder": "Pandya dynasty",
+    "location": "Rameswaram, Tamil Nadu"
+  },
+  "Tirupati Balaji Temple": {
+    "architecture": "Dravidian",
+    "built": "Ancient (300 CE onwards)",
+    "builder": "Various dynasties",
+    "location": "Tirupati, Andhra Pradesh"
+  },
+  "Padmanabhaswamy Temple": {
+    "architecture": "Dravidian (Kerala style)",
+    "built": "16th century",
+    "builder": "Travancore kings",
+    "location": "Thiruvananthapuram, Kerala"
+  },
+  "Sri Ranganathaswamy Temple Srirangam": {
+    "architecture": "Dravidian",
+    "built": "Early medieval",
+    "builder": "Chola, Pandya & Vijayanagara rulers",
+    "location": "Srirangam, Tamil Nadu"
+  },
+  "Murudeshwar Temple": {
+    "architecture": "Modern Dravidian",
+    "built": "20th century",
+    "builder": "Modern reconstruction",
+    "location": "Murudeshwar, Karnataka"
+  },
+  "Kanchipuram Kailasanathar Temple": {
+    "architecture": "Dravidian (Pallava)",
+    "built": "7th-8th century",
+    "builder": "Narasimhavarman II",
+    "location": "Kanchipuram, Tamil Nadu"
+  },
+  "Ekambareswarar Temple Kanchipuram": {
+    "architecture": "Dravidian",
+    "built": "6th century (expanded later)",
+    "builder": "Pallava & Chola rulers",
+    "location": "Kanchipuram, Tamil Nadu"
+  },
+  "Chidambaram Nataraja Temple": {
+    "architecture": "Dravidian",
+    "built": "10th century",
+    "builder": "Chola dynasty",
+    "location": "Chidambaram, Tamil Nadu"
+  },
+  "Sringeri Sharada Peetham": {
+    "architecture": "Dravidian",
+    "built": "8th century",
+    "builder": "Adi Shankaracharya",
+    "location": "Sringeri, Karnataka"
+  },
+  "Kukke Subramanya Temple": {
+    "architecture": "Dravidian",
+    "built": "Ancient",
+    "builder": "Local rulers",
+    "location": "Kukke, Karnataka"
+  },
+  "Dharmasthala Manjunatha Temple": {
+    "architecture": "Dravidian",
+    "built": "16th century",
+    "builder": "Heggade family",
+    "location": "Dharmasthala, Karnataka"
+  },
+  "Chamundeshwari Temple Mysore": {
+    "architecture": "Dravidian",
+    "built": "12th century",
+    "builder": "Hoysala rulers",
+    "location": "Mysuru, Karnataka"
+  },
+  "Kollur Mookambika Temple": {
+    "architecture": "Dravidian",
+    "built": "Ancient",
+    "builder": "Adi Shankaracharya (associated)",
+    "location": "Kollur, Karnataka"
+  },
+  "Guruvayur Temple Kerala": {
+    "architecture": "Kerala style",
+    "built": "14th century",
+    "builder": "Local rulers",
+    "location": "Guruvayur, Kerala"
+  },
+  "Sabarimala Temple Kerala": {
+    "architecture": "Kerala style",
+    "built": "Ancient",
+    "builder": "Pandalam kings",
+    "location": "Pathanamthitta, Kerala"
+  },
+  "Hampi Stone Chariot": {
+    "architecture": "Vijayanagara",
+    "built": "16th century",
+    "builder": "Krishnadevaraya",
+    "location": "Hampi, Karnataka"
+  },
+  "Lepakshi Veerabhadra Temple": {
+    "architecture": "Vijayanagara",
+    "built": "16th century",
+    "builder": "Virupanna Nayaka",
+    "location": "Lepakshi, Andhra Pradesh"
+  },
+  "Belur Temple Karnataka": {
+    "architecture": "Hoysala",
+    "built": "1117",
+    "builder": "Vishnuvardhana",
+    "location": "Belur, Karnataka"
+  },
+  "Halebidu Temple Karnataka": {
+    "architecture": "Hoysala",
+    "built": "12th century",
+    "builder": "Hoysala rulers",
+    "location": "Halebidu, Karnataka"
+  },
+  "Mahabalipuram Shore Temple": {
+    "architecture": "Dravidian (Pallava)",
+    "built": "7th-8th century",
+    "builder": "Narasimhavarman II",
+    "location": "Mahabalipuram, Tamil Nadu"
+  },
+  "Gol Gumbaz Bijapur": {
+    "architecture": "Indo-Islamic",
+    "built": "1656",
+    "builder": "Mohammed Adil Shah",
+    "location": "Vijayapura, Karnataka"
+  },
+  "Badami Cave Temples": {
+    "architecture": "Rock-cut (Chalukya)",
+    "built": "6th century",
+    "builder": "Chalukya dynasty",
+    "location": "Badami, Karnataka"
+  },
+  "Pattadakal Temples": {
+    "architecture": "Chalukyan (Nagara + Dravidian)",
+    "built": "7th-8th century",
+    "builder": "Chalukya dynasty",
+    "location": "Pattadakal, Karnataka"
+  },
+  "India Gate Delhi": {
+    "architecture": "Classical Triumphal Arch",
+    "built": "1931",
+    "builder": "Sir Edwin Lutyens",
+    "location": "New Delhi, Delhi"
+  },
+  "Victoria Memorial Kolkata": {
+    "architecture": "Indo-Saracenic (British Colonial)",
+    "built": "1921",
+    "builder": "William Emerson",
+    "location": "Kolkata, West Bengal"
+  },
+  "Amber Fort Jaipur": {
+    "architecture": "Rajput",
+    "built": "16th century",
+    "builder": "Raja Man Singh I",
+    "location": "Jaipur, Rajasthan"
+  },
+  "Ajanta Caves": {
+    "architecture": "Rock-cut Buddhist",
+    "built": "2nd century BCE – 6th century CE",
+    "builder": "Satavahana and Vakataka dynasties",
+    "location": "Aurangabad, Maharashtra"
+  },
+  "Ellora Caves": {
+    "architecture": "Rock-cut (Hindu, Buddhist, Jain)",
+    "built": "6th – 11th century CE",
+    "builder": "Rashtrakuta and Chalukya dynasties",
+    "location": "Aurangabad, Maharashtra"
+  },
+  "Khajuraho Temples": {
+    "architecture": "Nagara (Chandela)",
+    "built": "950 – 1050 CE",
+    "builder": "Chandela dynasty",
+    "location": "Khajuraho, Madhya Pradesh"
+  },
+  "Agra Fort": {
+    "architecture": "Mughal",
+    "built": "1565 CE",
+    "builder": "Emperor Akbar",
+    "location": "Agra, Uttar Pradesh"
+  },
+  "Mehrangarh Fort Jodhpur": {
+    "architecture": "Rajput",
+    "built": "1459 CE",
+    "builder": "Rao Jodha",
+    "location": "Jodhpur, Rajasthan"
+  },
+  "Rashtrapati Bhavan": {
+    "architecture": "Lutyens Delhi (Classical + Mughal blend)",
+    "built": "1929",
+    "builder": "Sir Edwin Lutyens",
+    "location": "New Delhi, Delhi"
+  },
+  "Sun Temple Modhera": {
+    "architecture": "Solanki (Maru-Gurjara)",
+    "built": "1026 CE",
+    "builder": "Bhima I of Solanki dynasty",
+    "location": "Modhera, Gujarat"
+  }
+}

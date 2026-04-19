@@ -1,0 +1,5 @@
+icrawler
+wikipedia
+ollama
+numpy
+Pillow
